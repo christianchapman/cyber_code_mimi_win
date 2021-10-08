@@ -1,3 +1,8 @@
+
+####### Modified to add debug statements 
+
+
+
 # mimikatz
 
 **`mimikatz`** is a tool I've made to learn `C` and make somes experiments with Windows security.
